@@ -1,0 +1,4 @@
+﻿  Billing_System.cpp
+F:\Semester 3\data structures\Billing_System\Billing_System\Custormer.h(429): warning C4715: 'Custormer::search_custormer_id': not all control paths return a value
+F:\Semester 3\data structures\Billing_System\Billing_System\Custormer.h(451): warning C4715: 'Custormer::search_custormer_mobile': not all control paths return a value
+  Billing_System.vcxproj -> F:\Semester 3\data structures\Billing_System\x64\Debug\Billing_System.exe
